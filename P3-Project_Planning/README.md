@@ -8,12 +8,22 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Include wireframes here: 
+
+* Daily Plan Wireframe : https://github.com/ARIT0/liftoff-assignments/blob/2789d7497baeac4f7b1788162ae722c8d104b36a/P3-Project_Planning/DailyPlanWireFrame.JPG
+
+* Recipe Index Wireframe : https://github.com/ARIT0/liftoff-assignments/blob/2789d7497baeac4f7b1788162ae722c8d104b36a/P3-Project_Planning/RecipeIndexWireframe.JPG
+
+* Recipe Page Wireframe : https://github.com/ARIT0/liftoff-assignments/blob/2789d7497baeac4f7b1788162ae722c8d104b36a/P3-Project_Planning/RecipePageWireFrame.JPG
+
+* Shopping List Wireframe : https://github.com/ARIT0/liftoff-assignments/blob/2789d7497baeac4f7b1788162ae722c8d104b36a/P3-Project_Planning/ShoppingListWireframe.JPG
+
+* Weekly Plan Wireframe : https://github.com/ARIT0/liftoff-assignments/blob/2789d7497baeac4f7b1788162ae722c8d104b36a/P3-Project_Planning/WeeklyPlanWireframe.JPG
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Link to public Trello board: https://trello.com/b/Gg2lJyoG/meal-planner
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Link to project on GitHub: https://github.com/ARIT0/MealPlanner
